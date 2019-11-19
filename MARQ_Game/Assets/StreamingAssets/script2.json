@@ -1,0 +1,553 @@
+{
+  "Items": [
+    {
+      "type": "dialogue",
+      "image": "provost_default",
+      "text": "Welcome to Folsom Library. Did you know as a student here you have access to over 570,000 books and e-books to assist you in your quest for knowledge?"
+    },
+    {
+      "type": "dialogue",
+      "image": "provost_default",
+      "text": "With millions more resources in our extensive database collection, you can develop the library research skills that lead to the types of discoveries our students are famous for!"
+    },
+    {
+      "type": "dialogue",
+      "image": "provost_default",
+      "text": "A team of Super Searchers - notable RPI alumni - are standing by to help you navigate the library and its website so you can become super searchers, too."
+    },
+    {
+      "type": "dialogue",
+      "image": "provost_default",
+      "text": "Think of research as a quest, a puzzle to be solved. Speaking of puzzles' our Super Searchers are here to help you solve a riddle! "
+    },
+    {
+      "type": "dialogue",
+      "image": "provost_default",
+      "text": "RIDDLE: New York State may be in the Northeast, but here it is in Southeast... where is New York located in the library?"
+    },
+    {
+      "type": "dialogue",
+      "image": "provost_default",
+      "text": "It's time to start your knowledge quest and make your 'MARQ' at RPI! "
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Good day! Did you know one of the first university libraries is the al-Qarawiyyin, in Fez, Morocco, and dates back to the year 859? Well, now you do!"
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "A very different library than the one you are standing in today."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "As you know, I am an RPI alum, otherwise known as 'Q', and I am your MARQ quest leader!"
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "MARQ is a game that uses 'QR' codes to take you on a series of knowledge quests on your journey through the RPI library! "
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "QR codes reveal both quest objects and the Super Searchers who will show you where to find more information. When you find QR codes during your library quest, you are rewarded with badges..."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Like the ones shown here."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "On the left of the screen is a menu bar where you can access the library maps, puzzle pieces, Super Searchers, and camera to scan the QR codes. Click on the buttons to learn more."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "To take a picture of a QR code, press the camera button..."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "This is the map icon...the library has four floors. Click the map icon now for a brief library tour! "
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "Hello there! I am Garnet Baltimore, one of your Super Searchers, here to take you on a library tour."
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "You can toggle between floors, but remember, you entered the building on the 2nd floor."
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "Let's start on the 4th floor! Here you will find journals and book stacks...",
+      "detail_image": "Journals"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "open study rooms...",
+      "detail_image": "Open Study Rooms"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "quiet spaces to read...",
+      "detail_image": "Quiet Places"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "and birds-eye views of Troy! ",
+      "detail_image": "Views of Troy"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "On the 3rd floor, you will find a computer station and scanner...",
+      "detail_image": "Computer Station"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "more book stacks...",
+      "detail_image": "3rd Floor Stacks"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "the archive room...",
+      "detail_image": "Interior-Archive-Room-BEST"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "and a sculpture by Charles Moore...",
+      "detail_image": "Water-Sculpture-by-Charles-Moore"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "Now, let's visit the 2nd floor. This is where you entered the library. We have the circulation desk...",
+      "detail_image": "Circulation Desk"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "computers and printers...",
+      "detail_image": "2 Computers on 2nd Floor"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "a document scanner on the far north side of the map...",
+      "detail_image": "Document Scanner"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "and a large collection of DVDs...",
+      "detail_image": "DVDs"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "Back on the 1st floor, you will find the Beta Classroom, the COMM +D Center, where you can get help with writing and design projects...",
+      "detail_image": "COMM+D Center"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "the recycle or 'adopt' a book stacks...",
+      "detail_image": "Second Chance Book sign"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "the microfilm section...",
+      "detail_image": "Microfilm Storage"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "where you can find boxes containing microfilm!",
+      "detail_image": "Microfilm Box"
+    },
+    {
+      "type": "dialogue",
+      "image": "baltimore_default",
+      "text": "Not all resources are in the physical library - there are many more to be found on the library's website. When you need to find a computer in the library, just tap the '@' sign on your keyboard to find one on the map! "
+    },
+    {
+      "type": "qr question",
+      "image": "baltimore_default",
+      "text": "It's a lot to take in, but we are here to help you navigate it all! Now, find and take a picture of the QR code in the COMM +D center to earn your first badge!",
+      "answer": "target_0",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Before you begin the quest to solve the riddle, let's test your ability to search for a resource using the library's web site. To do this, find a computer terminal on any of the floors and log in. "
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Go to the library's main page: library.rpi.edu. "
+    },
+    {
+      "type": "text question",
+      "image": "wells_default",
+      "text": "Let's give the 'Start Searching' box a try. Type in my name and look for the only journal article I wrote in English that the Folsom library has access to. When you find it, input the title... ",
+      "answer": "Note on Japanese Syllabaries||1851",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for - can you find and input the year of publication? "
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "You found it, well done! "
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Let the real quest begin! I have no doubt you will solve the riddle and find New York State... "
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Did you know that Folsom library has thousands of pages of sheet music,more than 7,000 DVDs, and over 3,600 vinyl records?"
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "There are so many library resources we can't begin to introduce you to them all in this short quest! But I digress'"
+    },
+    {
+      "type": "qr question",
+      "image": "wells_default",
+      "text": "Go to the second floor and find the drawing of the first steel-wire suspension bridge. Use your camera to take a picture of the QR code to earn another badge and find the next Super Searcher.",
+      "answer": "target_9",
+      "wrong": "Here's a hint: there is a piece of the real bridge below the picture!"
+    },
+    {
+      "type": "dialogue",
+      "image": "roebling_default",
+      "text": "Oh, hello there. I was just looking at my father's plans. You know, I helped build the Brooklyn Bridge."
+    },
+    {
+      "type": "dialogue",
+      "image": "roebling_default",
+      "text": "Can you help me search for my old thesis? The one I wrote in 1857, when I was a student at RPI? Be sure it's my thesis, not my father's."
+    },
+    {
+      "type": "dialogue",
+      "image": "roebling_default",
+      "text": "You'll need to find a computer and log onto the library website to start your search. I believe the thesis is accessible on microfilm, on the 1st floor. "
+    },
+    {
+      "type": "text question",
+      "image": "roebling_default",
+      "text": "When you find it, let me know which roll it's stored on, so I can find it later.",
+      "answer": "Roll 3||3||three||roll three",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "roebling_default",
+      "text": "Ah, you found it! Well done!"
+    },
+    {
+      "type": "dialogue",
+      "image": "roebling_default",
+      "text": "Next, I challenge you to find the catalog in the online databases and search for a book from my personal collection. I believe the title is Artistic Bridge Design. "
+    },
+    {
+      "type": "dialogue",
+      "image": "roebling_default",
+      "text": "When you find it, visit the 'Archives' room and take a picture of the QR code nearby to get another badge! "
+    },
+    {
+      "type": "qr question",
+      "image": "roebling_default",
+      "text": "If the archives room is closed, scan the QR code outside the door for your badge.",
+      "answer": "target_2",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "roebling_default",
+      "text": "For my last challenge, you must find a computer and go to the library's home page."
+    },
+    {
+      "type": "dialogue",
+      "image": "roebling_default",
+      "text": "Do a quick search to find a book on the topic of 'bridge design,' then look for it in the library stacks. Be sure to search for a physical book, not an ebook."
+    },
+    {
+      "type": "dialogue",
+      "image": "roebling_default",
+      "text": "Here's a hint: Try the library stacks on the 4th Floor!"
+    },
+    {
+      "type": "qr question",
+      "image": "roebling_default",
+      "text": "When you find it, take a picture of the nearby QR code to get another badge.",
+      "answer": "target_3",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "roebling_default",
+      "text": "Perfect! It looks like you've found one of the library's books on bridge design! You have earned a clue to the riddle to solve the mystery: Where is New York State in the library? "
+    },
+    {
+      "type": "clue",
+      "image": "roebling_default",
+      "text": "It's where the Hudson and the Mohawk flowed up and down, but have long since dried up."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Our next Super Searcher attended RPI during WWII. At that time, online resources were still decades away. "
+    },
+    {
+      "type": "qr question",
+      "image": "wells_default",
+      "text": "To find her, search the 3rd floor for images of the campus from 'way back when', take a picture of the QR code there, and your next Super Searcher will appear!",
+      "answer": "target_4",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "Wow! Things sure have changed since I was here in the 1940s! With so many resources available on demand, I bet you'll have an easier time doing research than I did!"
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "Let's explore some of the wonderful databases we have. First, locate a library computer and go to the library home page. Now, look for the 'Databases' tab and click on that link!"
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "Check it out! Every database in the library can be found here! "
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "Since we're here, would you mind finding a peer reviewed article for me titled 'Production Cost-Efficiency Relation for Room Air Conditioners and Its Economic and Environmental Impact'?"
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "Try using 'Academic Search Premier' to search for the article Be sure to select the 'Title' field!"
+    },
+    {
+      "type": "text question",
+      "image": "graham_default",
+      "text": "When you find it, give me the journal's volume number.",
+      "answer": "139",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "That's correct! You're good at this!"
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "There's also a newspaper article I want to locate. I believe it was published in the New York Times in 2016 and the author's last name is Schlossberg."
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "On the library main page, below the search bar, click on 'Databases' and then select 'databases' from the drop down list. "
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "Once in the A-Z database, use the search bar labeled 'All data base type' and click 'newspapers.' Then scroll down and pick 'Gale Newsstand.'"
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "Use 'Advanced Search' and click on 'keywords' to enter the author's name, 'Schlossberg, publication date - 2016, and publication: New York Times to locate the article. "
+    },
+    {
+      "type": "text question",
+      "image": "graham_default",
+      "text": "When you find it, can you tell me the name of the company working on cooling replacements for HFCs to reduce greenhouse gases?",
+      "answer": "Honeywell",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "Yes, very good! But if I had to write a paper on greenhouse gases, I would want to find an article in a peer reviewed journal or book to support my research, like the one you found for me earlier."
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "Academic sources are considered more reliable than popular periodicals."
+    },
+    {
+      "type": "dialogue",
+      "image": "graham_default",
+      "text": "Oh, before I forget, here's my clue to help you find New York State in Folsom Library:"
+    },
+    {
+      "type": "clue",
+      "image": "graham_default",
+      "text": "New York may be located in the north, but here it is in the middle."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "The earliest known libraries in Southwest Asia date back around 5,000 years and held large clay tablets with titles carved on the edges facing outward ' just like the spines of books today! "
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "RPI's Library hasn't been around that long, but it wasn't always here, where we are now."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "To find the next Super Searcher, find the photograph of the library students used from from 1928 to 1960, before Folsom Library was built'"
+    },
+    {
+      "type": "qr question",
+      "image": "wells_default",
+      "text": "Here's a hint: go to the1st floor, find the QR code, get another badge, and meet your Super Searcher!",
+      "answer": "target_5",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "Oh, hello! I was just looking at my RPI thesis from 1954 titled 'Entropy values for methyl borate and some related boron compounds.'"
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "Wow, that was a long time ago! I am sure a lot of new research has been done since then."
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "Say, can you find a nearby computer and search the library databases 'Catalog' for an ebook book on progress that has been made in boron chemistry?"
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "Use the 'Advanced Keyword' feature to search the subject: 'boron chemistry'."
+    },
+    {
+      "type": "text question",
+      "image": "servoss_default",
+      "text": "What are the dates of the latest ebooks published on this topic after 2010?",
+      "answer": "2016||2014||2013",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "That's great! Thank you."
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "Now, if I were to use one of the ebooks you found in a paper, I would need to cite it correctly. Did you know there are many library resources to help you with citations?"
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "Some documents you search for will provide a citation feature. Keep an eye out for that - it saves a lot of time! But not all do. So where do you find help?"
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "Locate a computer and go to the main library page. Find the 'Citation/Copyright' tab on the menu bar and click on it."
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "Then go to the 'Cite' page and click on the 'Citation and Style Guides' link. Here you can get assistance with many different citation formats. "
+    },
+    {
+      "type": "text question",
+      "image": "servoss_default",
+      "text": "How many style guides are listed there? ",
+      "answer": "9||nine",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "Well done! And if you need more help, the COMM+D center has faculty and tutors who can also assist you with questions about citing sources."
+    },
+    {
+      "type": "dialogue",
+      "image": "servoss_default",
+      "text": "Ready for your next clue? Here it is:"
+    },
+    {
+      "type": "clue",
+      "image": "servoss_default",
+      "text": "New York was built by a Princeton architect."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Congratulations! You've earned the clues to help you find New York State in Folsom Library."
+    },
+    {
+      "type": "text question",
+      "image": "wells_default",
+      "text": "When you find it, enter the year it was installed. If you can't find the date, type in 'CLUE' to get another hint.",
+      "answer": "1978",
+      "wrong": "Totally lost? It's part of the sculpture on the 3rd floor. The map might help..."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "You found New York State. I knew you could do it! Sometimes the very thing you're searching is right under your nose."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "No doubt library research can be a challenge, but it's also very rewarding. We like to think of it as a series of mysteries to be solved, on the quest for new knowledge."
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Next time you have a research assignment, come back and use MARQ to refresh your skills. Now you are a 'Super Searcher!'"
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Today, you have found many resources available to you in Folsom Library, but you've only scratched the surface. You'd be surprised at what you can discover here! "
+    },
+    {
+      "type": "qr question",
+      "image": "wells_default",
+      "text": "You can collect your last badge when you turn in your tablet and find the final QR code!",
+      "answer": "target_10",
+      "wrong": "Hmm, I'm afraid that is not quite what I'm looking for"
+    },
+    {
+      "type": "dialogue",
+      "image": "wells_default",
+      "text": "Now go forth and change the world..."
+    }
+  ]
+}
